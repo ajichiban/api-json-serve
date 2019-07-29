@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "date_1564317627969",
+      "nombre": "pastel de calabaza",
+      "precio": "100"
+    },
+    {
+      "id": "date_1564413922526",
+      "nombre": "Pastel de chocolate",
+      "precio": "200"
+    },
+    {
+      "id": "date_1564413954153",
+      "nombre": "Pastel de Melo",
+      "precio": "20"
+    },
+    {
+      "id": "date_1564416462492",
+      "nombre": "Pastel de Banana",
+      "precio": "85"
+    }
+  ]
+}
